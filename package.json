@@ -1,0 +1,27 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "1- got to folder and open cmd\r 2- type git config --global user.name \"vikas87911\"\r 3- type git config --global user.email \"vikassahu1542002@gmail.com\"\r 4- type git init\r 5- type git config --global color.ui auto\r 6- type git clone (paste kink copied from git repository)\r 7- type git remote add origin (paste copied link from github repo)\r 8- in terminal in vs code - type git status\r 9- git add .\r 10- git commit -m \"testing\"\r 11- git push\r # library-management-system",
+  "homepage": "https://github.com/vikassahu87911/library-management-system#readme",
+  "bugs": {
+    "url": "https://github.com/vikassahu87911/library-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikassahu87911/library-management-system.git"
+  },
+  "license": "ISC",
+  "author": "vikas sahu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

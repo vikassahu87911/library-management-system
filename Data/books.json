@@ -1,0 +1,164 @@
+{
+   "books" : [
+  {
+    "id": 1,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "price": 399,
+    "publisher": "HarperCollins"
+  },
+  {
+    "id": 2,
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self Help",
+    "price": 499,
+    "publisher": "Avery"
+  },
+  {
+    "id": 3,
+    "name": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Finance",
+    "price": 350,
+    "publisher": "Plata Publishing"
+  },
+  {
+    "id": 4,
+    "name": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "price": 799,
+    "publisher": "Prentice Hall"
+  },
+  {
+    "id": 5,
+    "name": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programming",
+    "price": 899,
+    "publisher": "Addison-Wesley"
+  },
+  {
+    "id": 6,
+    "name": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genre": "Self Help",
+    "price": 299,
+    "publisher": "Tarcher"
+  },
+  {
+    "id": 7,
+    "name": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "Productivity",
+    "price": 549,
+    "publisher": "Grand Central"
+  },
+  {
+    "id": 8,
+    "name": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "price": 450,
+    "publisher": "Harriman House"
+  },
+  {
+    "id": 9,
+    "name": "Zero to One",
+    "author": "Peter Thiel",
+    "genre": "Business",
+    "price": 499,
+    "publisher": "Crown Business"
+  },
+  {
+    "id": 10,
+    "name": "Ikigai",
+    "author": "Hector Garcia",
+    "genre": "Self Help",
+    "price": 399,
+    "publisher": "Penguin"
+  },
+  {
+    "id": 11,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "price": 599,
+    "publisher": "Allen & Unwin"
+  },
+  {
+    "id": 12,
+    "name": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "price": 349,
+    "publisher": "Secker & Warburg"
+  },
+  {
+    "id": 13,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "price": 429,
+    "publisher": "J.B. Lippincott & Co."
+  },
+  {
+    "id": 14,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "price": 320,
+    "publisher": "Charles Scribner's Sons"
+  },
+  {
+    "id": 15,
+    "name": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "price": 699,
+    "publisher": "Harvill Secker"
+  },
+  {
+    "id": 16,
+    "name": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memoir",
+    "price": 520,
+    "publisher": "Random House"
+  },
+  {
+    "id": 17,
+    "name": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Business",
+    "price": 580,
+    "publisher": "Crown Business"
+  },
+  {
+    "id": 18,
+    "name": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "genre": "Programming",
+    "price": 1200,
+    "publisher": "CareerCup"
+  },
+  {
+    "id": 19,
+    "name": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "genre": "Programming",
+    "price": 650,
+    "publisher": "No Starch Press"
+  },
+  {
+    "id": 20,
+    "name": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "genre": "Programming",
+    "price": 700,
+    "publisher": "O'Reilly Media"
+  }
+]
+}
