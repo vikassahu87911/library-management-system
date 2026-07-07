@@ -52,3 +52,20 @@ get: get all issued books with their fine amount
 >> if a user missed the renewl date then user should be collected with $100
 >> if a user missed his subscription then user is charged with $100
 >> if a user missed both renewl and subscription then user is charged with $200
+
+npm i mongoose
+npm i mongodb
+
+#mongo db
+mongodb+srv://vikassahu1542002_db_user:<db_password>@cluster0.ibtk0tx.mongodb.net/?appName=Cluster0
+WskMOgIqTpIlEkvl
+mongodb+srv://vikassahu1542002_db_user:<WskMOgIqTpIlEkvl>@cluster0.ibtk0tx.mongodb.net/?appName=Cluster0
+
+npm i dotenv
+
+## MVC aRCHITECTURE
+    >>M: Model (Structure of our MongoDb)
+    >>V: View (Frontend)
+    >>c: controllers (Brain/logic of a route)
+
+### DTO ( Data transfer Object)
