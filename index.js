@@ -1,10 +1,20 @@
 const express = require('express');
-// let {users} = require("./Data/users.json");
+const mongoose = require('mongoose');
+let {users} = require("./Data/users.json");
+
+const dotenv = require('dotenv');
+
+
+const DbConnection = require('./databaseConnection.js');
 
 const userrouter = require("./routes/users");
 const booksrouter = require("./routes/books");
 
+dotenv.config();
+DbConnection();
 const app = express();
+
+
 
 const port = 8081;
 app.use(express.json());
